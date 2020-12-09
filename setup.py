@@ -12,7 +12,6 @@ setuptools.setup(
     description="Import export bulk",
     long_description=long_description,
     packages=setuptools.find_packages(),
-    install_requires=install_requires,
     classifiers=[
         "Programming Language :: Python :: 2.7", "Python :: 3.6", "Python :: 3.9",
         "Operating System :: OS Independent",
